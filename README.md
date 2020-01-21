@@ -1,4 +1,4 @@
-# Ashadi Sedana Pratama
+# System Linear Equation
 This repository contain linear equation of Matlab implementation about Numerical Method.
 The task been worked are
   - Computer Problem 4.2 page number 106, number 3a.
