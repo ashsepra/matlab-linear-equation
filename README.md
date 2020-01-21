@@ -22,3 +22,6 @@ The following 8 by 8 tridiagonal system of equations arise in the solution of pa
 
 ## Computer Problem 4.4 Number 3b
 Generate a 15 × 15 matrix A using the MATLAB command rand and then use the MATLAB function lufact to solve the linear system Ax = b for the following b's, b=[1 2 3 ... 15]'
+
+
+**Ashadi Sedana Pratama**
