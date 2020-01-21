@@ -24,7 +24,7 @@ disp(b')
 disp('The augmented matrix : ')
 D = horzcat(A,b');
 disp(D);
-lu(A,b);
+lu(A,b');
 
 function lu(A,b)
 % Solve the system Ax=b using the LU decomposition.
