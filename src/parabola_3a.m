@@ -3,8 +3,10 @@ clear
 clc
 
 % Input (1,0),(?2,21),(0,1)
-x=[1 -2 0];
-y=[0 21 1];
+% x=[1 -2 0];
+% y=[0 21 1];
+x=[-1 2 5];
+y=[9 3 15];
 
 % Create matrix from equation
 xLength = length(x);
